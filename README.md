@@ -11,4 +11,5 @@ Loss: 12%
 
 Sources:
 https://papers.nips.cc/paper/6527-conditional-image-generation-with-pixelcnn-decoders.pdf
+
 https://github.com/openai/pixel-cnn
