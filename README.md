@@ -1,0 +1,2 @@
+# jazzCNN
+Jazz Music Generator
